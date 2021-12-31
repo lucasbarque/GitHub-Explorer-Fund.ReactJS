@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="../.github/ignite.png" alt="Ignite" >
+  <img src="./.github/ignite.png" alt="Ignite" >
   <br><br>
 Fundamentos do ReactJS
 </h1>
